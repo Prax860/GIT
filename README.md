@@ -51,3 +51,14 @@ master branch
 feature branch 
 hot fix branch
 
+o git branch 
+o git checkout -b feature-readme-instructions(switched to a new branch "feature-readme-instructions")
+o git branch
+o git checkout master (switched to branch master)
+o git branch 
+o git checkout feature-readme-instructions
+
+
+git diff(two versions of the code that shows the changes made)
+git merge feature-readme-instructions
+
