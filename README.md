@@ -37,3 +37,17 @@ just to practice git.
 
 ### Bibolography
 o	freecodecamp git and github.
+
+### GIThub Workflow
+write code ---> commit changes--->make a pull request
+
+### Local git workflow
+write code ---> stage changes(git add)
+---> commit changes(git commit)--->push changes(git push)---> make a pull request.
+
+### Git branching
+o	Branching is a way to work on different versions of a repository at one time.
+master branch
+feature branch 
+hot fix branch
+
