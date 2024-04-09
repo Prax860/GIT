@@ -35,3 +35,5 @@ just to practice git.
   
   o	Pull- download changes from remote repo to your local machine, the opposite of push.
 
+### Bibolography
+o	freecodecamp git and github.
